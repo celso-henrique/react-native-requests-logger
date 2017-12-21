@@ -15,11 +15,32 @@ npm install --save react-native-requests-logger
 import React, {Component} from 'react';
 import {AppRegistry} from 'react-native';
 
+import {logRequests} from 'react-native-requests-logger';
+
+class App extends Component {
+  constructor() {
+    logRequests();
+  }
+  
+  render() {
+    // Your app code... 
+  }
+}
+
+AppRegistry.registerComponent('App', () => App);
+```
+
+# Or use it as a component
+```js
+import React, {Component} from 'react';
+import {AppRegistry} from 'react-native';
+
 import RequestsLogger from 'react-native-requests-logger';
 
 class App extends Component {
   render() {
     <RequestsLogger />
+    // Your app code...
   }
 }
 
