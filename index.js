@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 export const logRequests = () => {
-  if (__DEV___) {
+  if (__DEV__) {
     // HTTP logger
     XMLHttpRequest = GLOBAL.originalXMLHttpRequest
       ? GLOBAL.originalXMLHttpRequest
