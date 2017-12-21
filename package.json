@@ -1,0 +1,29 @@
+{
+  "name": "react-native-requests-logger",
+  "version": "1.0.0",
+  "description": "Component that logs all requests made in react native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celso-henrique/react-native-fetch-logger.git"
+  },
+  "keywords": [
+    "React",
+    "native",
+    "fetch",
+    "logger",
+    "http",
+    "logger",
+    "requests",
+    "log"
+  ],
+  "author": "“Celso <“celso.henrique@hotmail.com.br”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celso-henrique/react-native-fetch-logger/issues"
+  },
+  "homepage": "https://github.com/celso-henrique/react-native-fetch-logger#readme"
+}
