@@ -1,7 +1,7 @@
 {
   "name": "react-native-requests-logger",
-  "version": "1.1.3",
-  "description": "Log all requests made in react native apps into chrome dev tools network tab.",
+  "version": "1.1.4",
+  "description": "Log all network requests made in react native apps into chrome dev tools network tab.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,11 +14,11 @@
     "React",
     "native",
     "fetch",
-    "logger",
+    "log",
     "http",
     "logger",
     "requests",
-    "log"
+    "network"
   ],
   "author": "“Celso <“celso.henrique@hotmail.com.br”>",
   "license": "MIT",
