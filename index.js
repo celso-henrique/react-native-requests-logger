@@ -20,6 +20,8 @@ export const logRequests = () => {
 
 export default class RequestsLogger extends Component {
   constructor() {
+    super();
+
     logRequests();
   }
 

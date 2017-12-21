@@ -19,11 +19,14 @@ import {logRequests} from 'react-native-requests-logger';
 
 class App extends Component {
   constructor() {
+    super();
+
     logRequests();
+    // Your app constructor code
   }
   
   render() {
-    // Your app code... 
+    // Your app render code 
   }
 }
 
@@ -40,7 +43,6 @@ import RequestsLogger from 'react-native-requests-logger';
 class App extends Component {
   render() {
     <RequestsLogger />
-    // Your app code...
   }
 }
 
