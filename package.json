@@ -1,6 +1,6 @@
 {
   "name": "react-native-requests-logger",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Log all network requests made in react native apps into chrome dev tools network tab.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/celso-henrique/react-native-fetch-logger.git"
+    "url": "git+https://github.com/celso-henrique/react-native-requests-logger.git"
   },
   "keywords": [
     "React",
@@ -23,7 +23,7 @@
   "author": "“Celso <“celso.henrique@hotmail.com.br”>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/celso-henrique/react-native-fetch-logger/issues"
+    "url": "https://github.com/celso-henrique/react-native-requests-logger/issues"
   },
-  "homepage": "https://github.com/celso-henrique/react-native-fetch-logger#readme"
+  "homepage": "https://github.com/celso-henrique/react-native-requests-logger#readme"
 }
