@@ -48,3 +48,7 @@ class App extends Component {
 
 AppRegistry.registerComponent('App', () => App);
 ```
+
+# License
+
+This project is [MIT licensed](./LICENSE).
